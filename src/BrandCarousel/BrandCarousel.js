@@ -6,7 +6,7 @@ import img3 from '../BrandCarousel/images/img3.webp';
 
 const BrandCarousel = () => {
     return (
-        <Carousel>
+        <Carousel className='mt-2'>
             <Carousel.Item>
                 <img
                     className="d-block w-100"
